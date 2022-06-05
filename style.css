@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-left: 113px;
+    margin-top: 6px;
+}
+
+header{
+    background-color: rgb(6, 153, 211);
+    position: sticky;
+    height: 70px;
+}
+
+header nav ul{
+    display: inline-flex;
+    position: sticky;
+    margin-top: 6px;
+}
+
+#sbox{
+    width: 567px ;
+    height: 40px;
+    border-radius: 12px;
+    margin-top: 9px;
+    box-shadow: white , 12px;
+    font-size: 18px;
+    background-image: url(search.png);
+    background-repeat: no-repeat;
+    background-position: 519px;
+    background-size: 24px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+#sbox:focus{
+    background-image: url(none);
+}
+header nav ul p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 23px;
+    font-style: normal;
+    margin-right: 68px;
+    margin-left: 67px;
+    color: white;
+    padding-top: 11.3px;
+}
+
+header nav ul p:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+header nav ul span{
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-size: 23px;
+    padding-top: 15.3px;
+    margin-left: 35px;
+    cursor: pointer;
+}
+
+header nav ul a button{
+    background-color: white;
+    color: rgb(6, 153, 211);
+    width: 124px;
+    height: 38px;
+    padding-top: 3px;
+    cursor: pointer;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
+    border-radius: 11px;
+}
+
+header nav ul a{
+    padding-top: 6px;
+    margin-left: 87px;
+    cursor: pointer;
+}
+
+.top{
+    display: inline-flex;
+    margin-top: 30px;
+    margin-left: 56px;
+    cursor: pointer;
+}
+
+.top img{
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+#appli{
+    width: 85px;
+    height: 85px;
+    margin-left: 74px;
+}
+
+.p{
+    margin-left: 55px;
+}
+
+.p p{
+    display: inline;
+    margin-left: 65px;
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.p p:hover{
+    color: rgb(6, 153, 211);
+    cursor: pointer;
+}
+
+.web{
+    width: 1350px;
+    height: auto;
+    padding-left: 14px;
+    margin-top: 10px;
+}
+
+.img{
+    margin-top: 8px;
+}
+
+.deals{
+    cursor: pointer;
+    margin-top: 12px;
+}
+
+.deals p{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: x-large;
+    margin-left: 14px;
+    display: inline;
+}
+
+.deals span{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+#clock{
+    height: 68px;
+    width: 100px;
+    margin-right: 916px;
+}
+
+#view{
+    width: 120px;
+    height: 40px;
+    background-color: #2874f0;
+    color: white;
+    box-shadow: none;
+    border: none;
+    border-radius: 3px;
+}
+
+.contanier{
+    margin-left: 19px;
+    margin-bottom: 24px;
+}
+
+.contanier img{
+    margin-right: 22px;
+}
+
+.deals .names{
+    margin-left: 15px;
+}
+
+.names span{
+    margin-right: 12px;
+}
+
+#phone{
+    margin-right: 35px;
+    margin-left: 12px;
+}
+
+
+
+#top{
+    margin-right: 100px;
+}
+
+#kur{
+    margin-right: 99px;
+}
+
+#rc{
+    margin-right: 99px;
+}
+
+#Rc{
+    margin-right: 99px;
+}
+
+#cook{
+    margin-right: 97px;
+}
+
+#men{
+    margin-right: 54px;
+}
+
+.price{
+    color: rgb(7, 212, 24);
+}
+
+#p145{
+    margin-left: 53px;
+    margin-right: 101px;
+}
+#p1000{
+    margin-right: 70px;
+}
+#p107{
+    margin-right: 103px;
+}
+#p198{
+    margin-right: 108px;
+}
+#p899{
+    margin-right: 129px;
+}
+#p989{
+    margin-right: 128px;
+}
+#p470{
+    margin-right: 123px;
+}
+#p778{
+    margin-right: 85px;
+}
